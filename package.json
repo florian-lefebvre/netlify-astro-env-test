@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.7.0",
-    "@astrojs/netlify": "../../withastro/adapters/packages/netlify",
+    "@astrojs/netlify": "file:./astrojs-netlify-5.2.1.tgz",
     "astro": "0.0.0-astro-env-20240515154445",
     "typescript": "^5.4.5"
   }
